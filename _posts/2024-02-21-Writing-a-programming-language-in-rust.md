@@ -1,6 +1,9 @@
 ---
-title: "Writing a programming language in Rust"
-date: 2024-02-21
+layout: post
+title: Writing a programming language in Rust
+author: Chirag Singla
+categories: computer
+tags: interpreters rust
 ---
 
 Hi!
